@@ -1,0 +1,52 @@
+body {background-color: #AAD2D4; }
+
+#header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#play {
+    text-align: center;
+    margin: auto;
+}
+
+.start:hover {
+    -webkit-box-shadow: 0px 0px 39px 12px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 39px 12px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 39px 12px rgba(0,0,0,0.75);
+}
+
+.col-md-6 {
+    text-align: center;
+}
+
+.choice2, .choice1 {
+    display: block;
+    text-align: center;
+    width: 15%;
+    margin: auto;
+    font-size: 20px;
+}
+
+.btn {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.choice1:hover {
+    -webkit-box-shadow: 0px 0px 39px -2px rgba(63,221,245,1);
+    -moz-box-shadow: 0px 0px 39px -2px rgba(63,221,245,1);
+    box-shadow: 0px 0px 39px -2px rgba(63,221,245,1);
+}
+
